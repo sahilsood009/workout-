@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Workout</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="workout_title_label">Title</string>
+    <string name="workout_date_label">Date</string>
+    <string name="workout_place_label">Place</string>
+    <string name="workout_start_time_label">Start Time</string>
+    <string name="workout_end_time_label">End Time</string>
+    <string name="workout_activity_type_label">Activity Type</string>
+    <string name="workout_individual_label">Individual</string>
+    <string name="workout_group_label">Group</string>
+
+    <string name="workout_title_hint">Enter a title for the workout.</string>
+    <string name="workout_place_hint">Enter a place for the workout.</string>
+    <string name="workout_activity_type_hint">Enter a activity type for the workout.</string>
+
+    <string name="workout_solved_label">Solved</string>
+    <string name="date_picker_title">Date of workout:</string>
+    <string name="time_picker_title">Time of workout:</string>
+    <string name="new_workout">New Workout</string>
+    <string name="show_subtitle">Show Subtitle</string>
+    <string name="hide_subtitle">Hide Subtitle</string>
+    <string name="subtitle_format">%1$s workouts</string>
+    <string name="workout_suspect_text">Choose Workout</string>
+    <string name="workout_report_text">Send Workout Report</string>
+    <string name="workout_report">%1$s!
+        The workout was discovered on %2$s. %3$s, and %4$s
+    </string>
+    <string name="workout_report_solved">The case is solved</string>
+    <string name="workout_report_unsolved">The case is not solved</string>
+    <string name="workout_report_no_suspect">there is no suspect.</string>
+    <string name="workout_report_suspect">the suspect is %s.</string>
+    <string name="workout_report_subject">WorkoutIntent Workout Report</string>
+    <string name="send_report">Send workout report via</string>
+</resources>
